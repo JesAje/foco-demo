@@ -1,0 +1,52 @@
+{
+  "points": 28,
+  "streak": 6,
+  "exercises": 28,
+  "last_practice_date": "",
+  "blocks": [
+    {
+      "title": "Repaso de integrales",
+      "subject": "Cálculo I",
+      "time": "10:30",
+      "minutes": 25,
+      "id": "legacy-0",
+      "done": false
+    },
+    {
+      "title": "Resolver guía 4",
+      "subject": "Álgebra Lineal",
+      "time": "13:00",
+      "minutes": 40,
+      "id": "legacy-1",
+      "done": false
+    },
+    {
+      "title": "Ejercicio diario",
+      "subject": "Racha · 8 min",
+      "time": "18:30",
+      "minutes": 8,
+      "id": "legacy-2",
+      "done": false
+    },
+    {
+      "title": "repasar multi",
+      "subject": "Cálculo I",
+      "time": "17:00",
+      "minutes": 25,
+      "id": "legacy-3",
+      "done": false
+    }
+  ],
+  "focus_minutes": 0,
+  "completed_sessions": 0,
+  "profile": {
+    "career": "Ing. Civil",
+    "semester": "3er semestre",
+    "difficulties": [
+      "Organizarme",
+      "Ser constante"
+    ],
+    "study_style": "Con ejercicios"
+  },
+  "coupon_unlocked": false
+}
